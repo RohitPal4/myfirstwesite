@@ -1,0 +1,66 @@
+body{
+     background-color:white;
+     color:black;
+     
+
+    }
+    #first{
+        background-color:red;
+    }
+    #second{
+        background-color:green;
+    }
+    .bg-blue{
+        background-color:aqua;
+        color:brown;
+        }
+        .red{
+            background-color:rgb(226, 43, 64);
+            color:white;
+            }
+         section{
+
+        
+            background-color:orange;
+            color:black;
+        }
+        ul{
+            background-color: yellowgreen;
+            color: rgb(226, 43, 58);
+            width: max-content;
+        }
+        caption{
+            background-color: purple;
+        }
+        table{
+            background-color:powderblue;
+        }
+        h4{
+            background-color: aqua;
+        }
+        input{
+            background-color: white;
+        }
+        h5{
+            background-color: rgba(128, 0, 128, 0.022);
+        }
+        label{
+            background-color:aqua;
+            color:red;
+        }
+        h1{
+            background-color: azure;
+            width: fit-content;
+            color: brown;
+        }
+        option{
+            background-color: white;
+            color: darkred;
+        }
+       a{
+            background-color:white;
+            
+        }
+        pre{
+            color: maroon;
+        }
